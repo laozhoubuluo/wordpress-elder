@@ -425,8 +425,8 @@ function haha_css() {
 	<style type='text/css'>
 	#haha {
 		position: absolute;
-		top: 16px;
-		right: 16px;
+		top: 20px;
+		right: 20px;
 		font-size: {$fontsize}px;
 	}
 	</style>
